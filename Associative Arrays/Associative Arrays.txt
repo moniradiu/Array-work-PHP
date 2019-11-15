@@ -1,0 +1,7 @@
+Associative Arrays
+
+$ages = array("Peter"=>22,"Clack"=>23,"John"=>32);
+
+//printing array structure
+
+print_r($ages);

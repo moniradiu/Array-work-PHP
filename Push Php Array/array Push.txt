@@ -1,0 +1,9 @@
+<?php
+//how to array with php value show
+
+$data = array('Name','munira','City','Dhaka','Gender','Female');
+array_push($data,"Canada","USA","UK");
+print_r($data);
+
+
+?>

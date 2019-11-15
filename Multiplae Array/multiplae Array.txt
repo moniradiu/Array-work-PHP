@@ -1,0 +1,26 @@
+<?php
+
+//how to multiplae Array show
+
+$multiColors = array(
+
+		array(
+				"Name","Email","Address"
+
+			),
+			array(
+				"Peter","Clork","Jusi"
+
+			),
+				array(
+				"City","Road","House On"
+
+			)
+
+);
+print_r($multiColors);
+
+
+
+
+?>

@@ -1,0 +1,9 @@
+<?php
+//how to single array index print
+
+$colors  = array("Petter","Jhon","Clerk");
+
+foreach ($colors as $key => $row) {
+ 	echo $key."<br>";
+ }
+?>

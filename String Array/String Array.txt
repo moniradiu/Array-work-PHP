@@ -1,0 +1,8 @@
+<?php
+//how to single arrary string data show without indexing and show concat
+$colors2 = array("Name","Email","Phone");
+
+foreach ($colors2 as $rows => $value) {
+	echo $value."<br>";
+}
+?>

@@ -1,0 +1,5 @@
+//how to single arrary string data show without indexing and First value show
+
+$colors4 = array("Peter","Clork","Jusi");
+
+echo $colors4[2]."<br>";

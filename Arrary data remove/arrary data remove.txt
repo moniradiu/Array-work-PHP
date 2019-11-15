@@ -1,0 +1,11 @@
+<?php
+\n
+//how to arrary data remove indiviual
+$array = array(0, 1, 2, 3);
+
+unset($array[2]);
+$array = array_values($array);
+
+var_dump($array);
+
+?>
